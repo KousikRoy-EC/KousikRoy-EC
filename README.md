@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 👨‍💻 All of my projects are available at [kousikroy.me](kousikroy.me)
+- 👨‍💻 All of my projects are available at [https://flowcv.me/kousik-roy](kousikroy.me)
 
 - 💬 Ask me about **React,Machine Learning,DSA**
 
